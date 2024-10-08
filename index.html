@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  </head>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Thabiso Mosoane Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="mediaqueries.css" />
+  </head>
+  <body>
+    <nav id="desktop-nav">
+      <style>
+        .logo {
+          width: 250px; 
+          height: auto; 
+        }
+      </style>
+      <img src="assets/logo1.png" class="logo">
+      <div>
+        <ul class="nav-links">
+          <li><a href="About.html">About</a></li>
+          <li><a href="Experience.html">Experience</a></li>
+          <li><a href="Projects.html">Projects</a></li>
+          <li><a href="Contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+    <nav id="hamburger-nav">
+      <img src="assets/logo1.png" class="logo">
+      <div class="hamburger-menu">
+        <div class="hamburger-icon" onclick="toggleMenu()">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <div class="menu-links">
+          <li><a href="About.html">About</a></li>
+          <li><a href="Experience.html">Experience</a></li>
+          <li><a href="Projects.html" >Project</a></li>
+          <li><a href="Contact.html">Contact</a></li>
+        </div>
+      </div>
+    </nav>
+    <section id="profile">
+      <div class="section__pic-container">
+        <img src="./assets/profile-pic22.png" alt="John Doe profile picture" />
+      </div>
+      <div class="section__text">
+        <p class="section__text__p1">Hi, I'm</p>
+        <h1 class="title">Thabsiso Mosoane</h1>
+        <p class="section__text__p2">Software Developer</p>
+        <div class="btn-container">
+          <button
+            class="btn btn-color-2"
+
+onclick="window.open('assets/My CV[1].pdf')" 
+           
+          >
+            Download CV
+          </button>
+        </div>
+        <div class="social-icons">
+          <a href="https://github.com//"><i class="fab fa-github"></i></a>
+          <a href="https://x.com/"><i class="fab fa-twitter-square"></i></a>
+          <a href="https://wa.me/+27787982342" target="_blank"><i class="fab fa-whatsapp"></i></a>
+          <a href="https://za.linkedin.com/"><i class="fab fa-linkedin"></i></a>
+          <style>
+            .social-icons i {
+              font-size: 2.5em; /
+            }
+          </style>
+        </div>
+        
+      </div>
+    </section>
+
+    
+    <footer>
+      <div class="copyright">
+        <p>
+          Copyright © Black Delta.
+          <a href="https://github.com/thabiso-mosoane/thabiso-mosoane" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://x.com/thabisomosoane0" target="_blank"><i class="fab fa-twitter-square"></i></a>
+          <a href="www.linkedin.com/in/thabiso-mosoane-585b7020a" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="https://wa.me/+27787982342" target="_blank"><i class="fab fa-whatsapp"></i></a>
+        </p>
+      </div>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
