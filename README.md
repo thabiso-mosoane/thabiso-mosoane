@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm Thabiso Mosoane
 
-<!--
-**thabiso-mosoane/thabiso-mosoane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year BSc Mathematics student at the University of Limpopo, majoring in Computer Science and Statistics.
 
-Here are some ideas to get you started:
+💻 Interested in Software Development, Data Analysis, Machine Learning, and Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- Python | C++ | Java
+- HTML | CSS | JavaScript
+- SQL
+- Statistical Analysis
+- Machine Learning
+
+### Projects
+- Student Dropout Classification
+- Smart Hearing Assistant
+- Hospital Database Management System
+- Web Development Projects
+
+### Career Interests
+Software Developer | Data Analyst | Machine Learning
+
+### Connect With Me
+- GitHub: [thabiso-mosoane](https://github.com/thabiso-mosoane)
+- Email: thabisomosoane0@gmail.com
+
